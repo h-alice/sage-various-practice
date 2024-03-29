@@ -1,0 +1,3 @@
+{
+    "python.analysis.extraPaths": [ "/var/tmp/sage-10.3-current/venv/lib/python3.11/site-packages" ],
+}
